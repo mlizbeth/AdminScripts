@@ -1,0 +1,1 @@
+Remove-ItemProperty -Path "HKLM:\Software\Policies\Microsoft\Windows\System" -Name "DefaultAssociationsConfiguration"
